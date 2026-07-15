@@ -16,7 +16,7 @@ This repository contains My SQL learning journey 🚀
 - Snippet to understand Sql Datatypes (Signed and Unsigned)
 
 
-# ▶️ How to Run
+# How to Run
 
 1. Install **MySQL Server**.
 2. Create a database.
