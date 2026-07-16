@@ -15,6 +15,12 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Snippet to understand Sql Datatypes (Signed and Unsigned)
 
+## Completed (Day_03)
+- Practice set 3 ✅
+
+## Program
+- Snippets for the queries related to database
+
 
 # How to Run
 
