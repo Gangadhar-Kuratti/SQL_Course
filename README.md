@@ -21,6 +21,14 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Snippets for the queries related to database
 
+## Completed (Day_04)
+- Practice set 4 ✅
+
+## Program
+- Snippet for table creation
+- Snippet for insertion of data into table
+- Snippet for displaying complete table
+
 
 # How to Run
 
