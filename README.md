@@ -29,6 +29,12 @@ This repository contains My SQL learning journey 🚀
 - Snippet for insertion of data into table
 - Snippet for displaying complete table
 
+## Completed (Day_05)
+- Practice set 5 ✅
+
+## Program
+- Snippet to understand the consraints
+
 
 # How to Run
 
