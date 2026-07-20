@@ -41,6 +41,12 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Select Command in Detail
 
+## Completed (Day_07)
+- Practice set 7 ✅
+
+## Program
+- Definition and Snippet to understand the where clause
+
 
 # How to Run
 
