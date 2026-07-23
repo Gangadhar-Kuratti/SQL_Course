@@ -60,6 +60,12 @@ This repository contains My SQL learning journey 🚀
 - Snippet for limit clause
 - Snippet for Orderby clause
 
+## Completed (Day_10)
+- Practice set 10 ✅
+
+## Program
+- Snippet to understand the Aggregate function
+
 
 # How to Run
 
