@@ -66,6 +66,13 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Snippet to understand the Aggregate function
 
+## Completed (Day_11)
+- Practice set 11 ✅
+
+## Program
+- small snippet to understand the groupby clause 
+- small snippet to understand the Having clause 
+
 
 # How to Run
 
