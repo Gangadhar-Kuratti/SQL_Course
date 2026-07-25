@@ -73,7 +73,13 @@ This repository contains My SQL learning journey 🚀
 - small snippet to understand the groupby clause 
 - small snippet to understand the Having clause 
 
+## Completed (Day_12)
+- Practice set 12  ✅
 
+## Program
+- Table related queries with alter command
+
+  
 # How to Run
 
 1. Install **MySQL Server**.
