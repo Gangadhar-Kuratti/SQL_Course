@@ -79,7 +79,13 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Table related queries with alter command
 
-  
+## Completed (Day_13)
+- Practice set 13 ✅
+
+## Program
+- Definitions and Snippets to understand the Sql Joins
+
+   
 # How to Run
 
 1. Install **MySQL Server**.
