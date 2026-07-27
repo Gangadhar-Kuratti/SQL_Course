@@ -85,6 +85,12 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Definitions and Snippets to understand the Sql Joins
 
+## Completed (Day_14)
+- Practice set 14 ✅
+
+## Program
+- Practice database Question
+
    
 # How to Run
 
