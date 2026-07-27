@@ -89,7 +89,7 @@ This repository contains My SQL learning journey 🚀
 - Practice set 14 ✅
 
 ## Program
-- Practice database Question
+- Practice database Question with 5 queries
 
    
 # How to Run
