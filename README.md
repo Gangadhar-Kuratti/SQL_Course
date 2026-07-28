@@ -91,6 +91,9 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Practice database Question with 5 queries
 
+## Completed DAY_01_SQL_Mastery
+- Practice set ✅
+
    
 # How to Run
 
