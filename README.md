@@ -97,6 +97,9 @@ This repository contains My SQL learning journey 🚀
 ## Completed DAY_02_SQL_Mastery
 - Practice set ✅
 
+## Completed DAY_03_SQL_Mastery
+- Practice set ✅
+
    
 # How to Run
 
