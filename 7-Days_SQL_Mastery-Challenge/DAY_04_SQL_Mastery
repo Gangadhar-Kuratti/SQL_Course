@@ -1,0 +1,45 @@
+create table student(
+  name varchar(12) not null,
+  reg_no int primary key,
+  address varchar(15) not null,
+  marks float
+);
+
+insert into student values ('anand',26,'Mysore',86);
+insert into student values ('sharath',24,'Bangalore',89);
+insert into student values ('ritvik',25,'Bagalkote',75);
+insert into student values ('Guru',32,'Kundagol',80);
+insert into student values ('sneha',31,'Davangere',90);
+
+select * from student;
+
+-- Display students with marks between 70 and 80.
+
+select name,marks
+from student
+where marks between 70 and 80;
+
+-- Display students from Bangalore or Mysore.
+
+select name
+from student
+where address in ('Bangalore','Mysore');
+
+-- Display students whose names contain 'an'.
+
+select name
+from student
+where name like '%an%';
+
+-- Display students whose names start with 'A'.
+
+select name
+from student
+where name like 'A%';
+
+-- Display students whose names end with 'a'.
+
+select name
+from student
+where name like '%a';
+
