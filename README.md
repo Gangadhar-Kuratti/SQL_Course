@@ -91,13 +91,16 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Practice database Question with 5 queries
 
-## Completed DAY_01_SQL_Mastery
+## Completed DAY_01_SQL_Mastery (SELECT, WHERE, ORDER BY, UPDATE, DELETE)
 - Practice set ✅
 
-## Completed DAY_02_SQL_Mastery
+## Completed DAY_02_SQL_Mastery (Aggregate Functions)
 - Practice set ✅
 
-## Completed DAY_03_SQL_Mastery
+## Completed DAY_03_SQL_Mastery (GROUP BY & HAVING)
+- Practice set ✅
+
+## Completed DAY_04_SQL_Mastery LIKE, BETWEEN, IN)
 - Practice set ✅
 
    
