@@ -100,7 +100,10 @@ This repository contains My SQL learning journey 🚀
 ## Completed DAY_03_SQL_Mastery (GROUP BY & HAVING)
 - Practice set ✅
 
-## Completed DAY_04_SQL_Mastery LIKE, BETWEEN, IN)
+## Completed DAY_04_SQL_Mastery (LIKE, BETWEEN, IN)
+- Practice set ✅
+
+## Completed DAY_04_SQL_Mastery (JOINS)
 - Practice set ✅
 
    
