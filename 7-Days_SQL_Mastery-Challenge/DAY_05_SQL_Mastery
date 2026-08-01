@@ -1,0 +1,49 @@
+create table customer(
+  id int primary key,
+  name varchar(15) not null
+);
+
+insert into customer values (101,'sneha');
+insert into customer values (102,'naveen');
+insert into customer values (103,'kavya');
+insert into customer values (104,'guru');
+insert into customer values (105,'sughosh');
+
+create table orders(
+  id int primary key,
+  cid int not null,
+  product varchar(15),
+  amount float not null
+);
+
+insert into orders values (01,105,'Shoes',2500);
+insert into orders values (02,103,'Bat',1800);
+insert into orders values (03,106,'Doll',4000);
+insert into orders values (04,104,'Shirt',2000);
+insert into orders values (05,101,'Trouser',2500);
+
+
+-- Display customers with their orders.
+
+select orders.product,
+customer.name
+from customer
+inner join orders on customer.id=orders.cid;
+
+-- Display customers who have never placed an order.
+
+select customer.name,
+orders.product
+from customer
+left join orders on customer.id = orders.cid;
+
+-- Display the customer who spent the most.
+
+select customer.name,
+orders.amount
+from customer
+inner join orders on customer.id = orders.cid
+where orders.amount=(
+  select max(amount)
+  from orders
+);
