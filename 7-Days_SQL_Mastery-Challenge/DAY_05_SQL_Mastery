@@ -47,3 +47,11 @@ where orders.amount=(
   select max(amount)
   from orders
 );
+
+-- Display all customers who ordered a Shoes.
+
+select customer.name,
+orders.product
+from customer
+inner join orders on customer.id = orders.cid
+where orders.product='Shoes';
