@@ -88,6 +88,9 @@ This repository contains My SQL learning journey 🚀
 ## Completed (Day_14)
 - Practice set 14 ✅
 
+## Completed (Day_15)
+- Practice set 15 ✅
+
 ## Program
 - Practice database Question with 5 queries
 
