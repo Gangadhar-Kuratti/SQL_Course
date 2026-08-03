@@ -94,6 +94,12 @@ This repository contains My SQL learning journey 🚀
 ## Program
 - Practice database Question with 5 queries
 
+## Completed (Day_16)
+- Practice set 16 ✅
+
+## Program
+- Practice database Question with 4 sub-queries
+
 ## Completed DAY_01_SQL_Mastery (SELECT, WHERE, ORDER BY, UPDATE, DELETE)
 - Practice set ✅
 
@@ -106,7 +112,7 @@ This repository contains My SQL learning journey 🚀
 ## Completed DAY_04_SQL_Mastery (LIKE, BETWEEN, IN)
 - Practice set ✅
 
-## Completed DAY_04_SQL_Mastery (JOINS)
+## Completed DAY_05_SQL_Mastery (JOINS)
 - Practice set ✅
 
    
